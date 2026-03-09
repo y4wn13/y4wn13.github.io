@@ -1,4 +1,4 @@
-# Intro to Data Science Final Project 
+# Profitability of films that pass the Bechdel Test
 *By Andrew Yawn*
 
 ## Description: 
