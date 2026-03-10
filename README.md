@@ -4,7 +4,8 @@
 ## Description: 
 The goal of this project is to examine and analyze whether female representation in movies has any noteworthy associations with box office returns. I'd also like to see if I can determine whether female representation has any stastictical significance when attempting to predict a film's ROI.
 
-## A key metric: In 1985, a cartoonist named Alison Bechdel drew a comic that unwittingly set the standard for measuring female representation in movies for the next four decades. The comic showed two women opting not to see a movie because it did not pass three criteria:
+## A key metric: 
+In 1985, a cartoonist named Alison Bechdel drew a comic that unwittingly set the standard for measuring female representation in movies for the next four decades. The comic showed two women opting not to see a movie because it did not pass three criteria:
 There must be at least two women
 A conversation between two women
 A conversation between two women about anything but a man
